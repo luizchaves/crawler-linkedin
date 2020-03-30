@@ -1,0 +1,16 @@
+{
+  "name": "linkedin-connection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connections.js",
+  "scripts": {
+    "start": "node getConnections.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^2.1.1"
+  }
+}
